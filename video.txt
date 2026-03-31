@@ -1,0 +1,7 @@
+El video presenta como Mercado Libre gestiona su arquitectura de software a gran escala, utilizando tecnologias cloud y multiples lenguajes de programación para adaptarse a distintos casos de uso.
+
+Se destaca su infraestructura, con miles de servicios e instancias virtuales, apoyada en proveedores como AWS y herramientas internas como Fury, que permite abstraer la infraestructura y facilitar el trabajo de los desarrolladores.
+
+Además, cuentan con estándares en sus APIs y herramientas que permiten simular entornos antes de poner en producción, lo que mejora la estabilidad del sistema. La plataforma es altamente escalable y está diseñada para evolucionar constantemente.
+
+El concepto más importante es la abstracción de la infraestructura, ya que permite a los desarrolladores enfocarse en desarrollar soluciones sin preocuparse por la complejidad técnica del entorno.
